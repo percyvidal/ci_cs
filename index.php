@@ -1,7 +1,7 @@
 ﻿<?php
 	$name = "Capera Inmobiliaria";
-	$title = "Página en constucción";
-	$subtitle ="Estamos trabajando para poder brindarle una nueva experncia digital";
+	$title = "Página en construcción";
+	$subtitle ="Estamos trabajando para poder brindarle una nueva experiencia digital";
 ?>
 
 <!DOCTYPE html>
